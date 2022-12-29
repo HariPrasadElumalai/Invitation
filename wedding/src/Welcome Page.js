@@ -3,8 +3,8 @@ import TextTransition, { presets } from "react-text-transition";
 import images from './Media';
 import invi from './Media/Invitation1.jpg';
 import aud from './Media/Temple.mp3';
-import left from './left.png';
-import right from './right.png';
+// import left from './left.png';
+// import right from './right.png';
 import ReactAudioPlayer from 'react-audio-player';
 
 class Welcome extends React.Component {
